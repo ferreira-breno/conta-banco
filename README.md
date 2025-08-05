@@ -1,4 +1,4 @@
-DIO - Trilha Java Básico
+Trilha Java Básico
 
 
 Sintaxe - Desafio
